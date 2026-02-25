@@ -1,5 +1,8 @@
 <!-- Voeg hier je banner toe -->
 
+![WhatsApp Image 2026-02-25 at 11 08 59](https://github.com/user-attachments/assets/f1fdd870-92f2-4287-a3be-93b00596690b)
+
+
 <!-- Example: ![Banner](./banner.png) -->
 
 # 👋 Hallo, ik ben Zaida El Aissati
