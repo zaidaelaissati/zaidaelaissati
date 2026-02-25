@@ -70,11 +70,11 @@
 ## 📊 GitHub Stats
 
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=zaidaelaissati&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidaelaissati&layout=compact&theme=tokyonight" height="180"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zaidaelaissati&theme=tokyonight&hide_border=true)
 
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=zaidaelaissati&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+![GitHub Streak](https://streak-stats.demolab.com?user=zaidaelaissati&theme=tokyonight)
 
 ---
 
