@@ -73,7 +73,7 @@
 ![Stars](https://img.shields.io/github/stars/zaidaelaissati?style=social)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zaidaelaissati&theme=tokyonight&hide_border=true)
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zaidaelaissati&theme=react-dark)
+
 
 ---
 
