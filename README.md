@@ -67,12 +67,13 @@
 ![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge\&logo=trello\&logoColor=white)
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidaelaissati&show_icons=true&theme=tokyonight)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaidaelaissati&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidaelaissati&layout=compact&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com?user=zaidaelaissati&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=zaidaelaissati&layout=compact&theme=tokyonight&hide_border=true)
 
 ---
 
