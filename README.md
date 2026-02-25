@@ -1,6 +1,7 @@
 <!-- Voeg hier je banner toe -->
 
-![Uploading Zaida El Aissati als full-stack developer.png…]()
+
+<img width="1536" height="1024" alt="Zaida El Aissati als full-stack developer" src="https://github.com/user-attachments/assets/90a6a772-9810-475c-96c5-78cafd968cd6" />
 
 
 
