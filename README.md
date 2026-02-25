@@ -68,13 +68,12 @@
 
 ---
 ## 📊 GitHub Stats
-
 ![Followers](https://img.shields.io/github/followers/zaidaelaissati?style=social)
 ![Repos](https://img.shields.io/github/repos/zaidaelaissati?style=social)
-![Stars](https://img.shields.io/github/stars/zaidaelaissati?style=social)"180"/>
+![Stars](https://img.shields.io/github/stars/zaidaelaissati?style=social)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zaidaelaissati&theme=tokyonight&hide_border=true)
-
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=zaidaelaissati&theme=react-dark)
 
 ---
 
