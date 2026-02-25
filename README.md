@@ -69,12 +69,10 @@
 ---
 ## 📊 GitHub Stats
 
-
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaidaelaissati&layout=compact&theme=tokyonight" height="180"/>
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=zaidaelaissati&theme=tokyonight&hide_border=true)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zaidaelaissati&theme=tokyonight)
 
 ---
 
